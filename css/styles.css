@@ -1,0 +1,93 @@
+
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+
+img {
+    width: 20%;
+    height: auto;
+    
+}
+div {
+    background-color: #F7ECDE;
+}
+
+.block1 {
+    
+}
+
+.block2 {
+    
+}
+.block3 {
+   clear: both;
+}
+.programming-stock {
+    float: left;
+}
+
+.pf-logo {
+    float: left;
+}
+
+.skills {
+    clear: both;
+}
+
+
+
+.java-logo {
+    position: absolute;
+    border: 1px;
+    border-style: solid;
+    left: 325px;
+
+}
+.c-logo {
+    position: absolute;
+    left: 650px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+.copyright {
+    text-align: center;
+}
+a:hover {
+    color: purple;
+}
+.france {
+    float: left;
+}
+.contact {
+    clear: both;
+}
+
+div {
+    padding: 10px;
+}
+
+h1 {
+    color: #181818;
+    
+}
+h2 {
+    color: #181818;
+    font-size: large;
+}
+.contact-button {
+    border: 2px;
+    border-style: solid;
+    font-size: 20px;
+    float: left;
+}
+
+hr {
+    border-style: dashed;
+    border-width: 2px;  
+    clear: both;
+}
